@@ -265,7 +265,7 @@ export default function App() {
             )}
           </div>
 
-          <div className="flex items-center rounded-sm p-2 justify-between h-[200px] w-full">
+          <div className="flex items-center rounded-sm p-2 justify-around h-[200px] w-full">
             {processedImages.map((image, index) => {
               return (
                 <div
