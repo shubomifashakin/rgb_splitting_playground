@@ -12,6 +12,3 @@ This is a simple playground to experiment with RGBreak's splitting functionality
 
 - [RGBreak Documentation](https://documenter.getpostman.com/view/29426986/2sB2qgedtc)
 
-## Get API Key
-
-- [RGBreak](https://rgbreak.com/)
